@@ -1,0 +1,17 @@
+D:\code\cSharp\SinoSerial\SinoSerial\bin\Debug\SinoSerial.exe.config
+D:\code\cSharp\SinoSerial\SinoSerial\bin\Debug\SinoSerial.exe
+D:\code\cSharp\SinoSerial\SinoSerial\bin\Debug\SinoSerial.pdb
+D:\code\cSharp\SinoSerial\SinoSerial\obj\Debug\SinoSerial.SinoSerial.resources
+D:\code\cSharp\SinoSerial\SinoSerial\obj\Debug\SinoSerial.Properties.Resources.resources
+D:\code\cSharp\SinoSerial\SinoSerial\obj\Debug\SinoSerial.csproj.GenerateResource.Cache
+D:\code\cSharp\SinoSerial\SinoSerial\obj\Debug\SinoSerial.exe
+D:\code\cSharp\SinoSerial\SinoSerial\obj\Debug\SinoSerial.pdb
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\bin\Debug\SinoSerial.exe.config
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Debug\SinoSerial.exe
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Debug\SinoSerial.pdb
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Debug\SinoSerial.SinoSerial.resources
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Debug\SinoSerial.Properties.Resources.resources
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Debug\SinoSerial.csproj.GenerateResource.Cache
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\bin\Debug\SinoSerial.exe
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\bin\Debug\SinoSerial.pdb
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Debug\SinoSerial.csprojResolveAssemblyReference.cache

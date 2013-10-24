@@ -1,0 +1,9 @@
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\bin\Release\SinoSerial.exe.config
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\bin\Release\SinoSerial.exe
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\bin\Release\SinoSerial.pdb
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Release\SinoSerial.SinoSerial.resources
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Release\SinoSerial.Properties.Resources.resources
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Release\SinoSerial.csproj.GenerateResource.Cache
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Release\SinoSerial.exe
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Release\SinoSerial.pdb
+D:\code\cSharp\Tools\SinoSerial\SinoSerial\obj\Release\SinoSerial.csprojResolveAssemblyReference.cache
